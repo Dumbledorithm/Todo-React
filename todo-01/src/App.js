@@ -17,6 +17,7 @@ const App = () => {
       <TodoItem />
       <TodoItem />
       <TodoItem />
+      <TodoItem />
       <Button />
     </div>
   );
